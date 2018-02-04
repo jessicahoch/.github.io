@@ -1,5 +1,6 @@
 # Quincy Hoch 
 
-Hello world! Welcome to my website! I love to bark, play, and sleep. 
+Hello world! Welcome to my website! I love barking, playing, and sweater weather. 
 
-![quincy](quincy.png)
+![quincy wears a sweater](quincy-sweater1.png)
+![quincy wears a sweater part 2](quincy-sweater2.png)
